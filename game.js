@@ -1,6 +1,6 @@
 class HelloWorld {
     constructor() {
-        console.log("Hello, World! yooo");
+        console.log("Hello, World! yooouuuu");
     }
 }
 
